@@ -12,7 +12,7 @@ microservice:
   rating-service:
     endpoints:
       endpoint:
-        uri: http://rating-service/ratings/users
+        uri: http://rating-service/ratings/user/
 
   hotel-service:
     endpoints:
